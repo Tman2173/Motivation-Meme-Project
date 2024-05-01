@@ -1,3 +1,3 @@
 # Motivation-Meme-Project
 
-This the 2nd project I completed following Dr. Angela Yu's Web Development Bootcamp.
+This the 3rd project I completed following Dr. Angela Yu's Web Development Bootcamp.
